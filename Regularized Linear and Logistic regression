@@ -1,0 +1,16 @@
+Hey welcome!👋 
+I'm documenting my ML progress on ML-Documentation, hope you find useful 
+With regularized we can overcome logistic and linear regression overfitting problems. *Overfitting* means the model has trained extensively with data. 
+
+Regularized Linear regression 
+
+![Screenshot 2023-09-02 201223](https://github.com/Titanpimpale/ML-Documentation-/assets/109168200/df4cb2d2-a27c-40ab-acb5-12c8cefba50d)
+The above lambda term is a regularization term, 
+
+*IMP* 1. lamda equal to 0 means model overfit
+      2. Lambda equal to 10 to power 10 (huge number) model is underfit
+      3. When Lamda is in between then the model is perfect👌 
+
+Regularized Logistic regression
+
+![Screenshot 2023-09-02 202004](https://github.com/Titanpimpale/ML-Documentation-/assets/109168200/115d2879-5138-4d3a-8d64-60b66c825b76)
